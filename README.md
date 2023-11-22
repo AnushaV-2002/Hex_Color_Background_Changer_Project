@@ -6,4 +6,4 @@ I built this project with DOM Manipulation method using HTML, CSS, Javascript
   <li>Javascript - I used Javascript to give interactivity to the webpage</li>
 </ul>
 
-# [Live Demo](https://anushav-2002.github.io/Hex_Color_Background_Changer_Project/)
+
